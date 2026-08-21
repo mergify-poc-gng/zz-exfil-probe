@@ -1,2 +1,2 @@
-extends: paywall-test
+extends: zzz-no-such-repo-9f3a
 pull_request_rules: []
