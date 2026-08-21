@@ -1,2 +1,2 @@
-extends: zzz-no-such-repo-9f3a
+extends: pw-check
 pull_request_rules: []
